@@ -18,7 +18,7 @@ Este é um aplicativo Android desenvolvido no App Inventor que permite realizar 
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/gabrielgrison/PEIV.git
     ```
 2. Importe o projeto no App Inventor.
 
