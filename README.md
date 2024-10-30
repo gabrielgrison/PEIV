@@ -1,6 +1,5 @@
 # PEIV
-
-Este é um aplicativo Android desenvolvido no App Inventor que permite realizar operações CRUD (Create, Read, Update, Delete) em um banco de dados Firebase. O aplicativo gerencia informações de usuários, incluindo ID, nome, email e telefone.
+Este trabalho apresenta o desenvolvimento de um sistema de gerenciamento de usuários, com foco em prover uma interface intuitiva para a realização de operações CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados. O sistema foi projetado para gerenciar informações essenciais de usuários, como identificação única (ID), nome completo, endereço de e-mail e número de telefone. A aplicação foi desenvolvida utilizando o App Inventor e visa atender à necessidade de organizar uma base de contatos.
 
 ## Funcionalidades
 
